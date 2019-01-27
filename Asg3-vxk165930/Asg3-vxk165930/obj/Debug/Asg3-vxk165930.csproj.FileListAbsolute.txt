@@ -1,0 +1,10 @@
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\bin\Debug\Asg3-vxk165930.exe.config
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\bin\Debug\Asg3-vxk165930.exe
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\bin\Debug\Asg3-vxk165930.pdb
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3-vxk165930.csprojAssemblyReference.cache
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3_vxk165930.Properties.Resources.resources
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3-vxk165930.csproj.GenerateResource.cache
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3-vxk165930.csproj.CoreCompileInputs.cache
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3-vxk165930.exe
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3-vxk165930.pdb
+C:\Users\vamse\source\repos\Asg3-vxk165930\Asg3-vxk165930\obj\Debug\Asg3_vxk165930.Evaluation.resources
